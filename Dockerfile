@@ -1,4 +1,3 @@
-# 使用 fractalbitcoin/fractal:v0.1.6 镜像作为基础镜像
 FROM fractalbitcoin/fractal:v0.1.6
 
 # 设置数据目录
